@@ -17,5 +17,5 @@
         "required": true
       },
     },
-      "stack": "container"
+      "stack": "heroku-20"
   }
