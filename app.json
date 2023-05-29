@@ -30,7 +30,7 @@
 
         "value": "",
 
-        "required": true
+        "required": false
 
       },
 
@@ -40,11 +40,11 @@
 
         "value": "",
 
-        "required": true
+        "required": false
 
       },
 
-      "BOT_TOKEN": {
+      "TOKEN": {
 
         "description": "A Bot's token from Botfather",
 
@@ -60,7 +60,7 @@
 
         "value": "1356469075",
 
-        "required": true
+        "required": false
 
       },
 
@@ -70,7 +70,7 @@
 
         "value": "",
 
-        "required": true
+        "required": false
 
       },
 
@@ -80,7 +80,7 @@
 
         "value": "",
 
-        "required": true
+        "required": false
 
       },
 
