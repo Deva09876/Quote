@@ -1,0 +1,21 @@
+{
+    "name": "ғᴀʟʟᴇɴ ダ ᴍᴜsɪᴄ",
+    "description": "A VC Player Bot for telegram videochats, written in Python with Pyrogram and Py-Tgcalls.",
+    "logo": "https://te.legra.ph/file/6f99c49bdb4679acad717.jpg",
+    "keywords": [
+    "python3",
+    "telegram",
+    "Fallen",
+    "MusicBot",
+    "telegram-bot",
+    "pyrogram"
+    ],
+    "env": {
+      "BOT_TOKEN": {
+        "description": "A Bot's token from Botfather",
+        "value": "",
+        "required": true
+      },
+    },
+      "stack": "heroku-20"
+  }
